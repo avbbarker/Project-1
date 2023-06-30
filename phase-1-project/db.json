@@ -1,0 +1,104 @@
+{
+    "albums" : [
+        {
+            "id": 1,
+            "title": "Toxicity",
+            "artist": "System Of A Down",
+            "release_year": 2001,
+            "description": "System of a Down set themselves apart from the nü-metal pack by embracing alternative influences, including punk and Zappa-esque art rock. Abrupt changes in tempo and dynamics are matched by the mercurial vocals of Serj Tankian, who morphs from fire-breathing screamer to impassioned missionary to Arabic folksinger, often within the span of a few seconds. \"Chop Suey!\" became an MTV sensation and remains one of modern music's most compelling anthems.",
+            "image": "./assets/Toxicity.jpeg",
+            "listened": false,
+            "times_listened": 0
+        },
+        {
+            "id": 2,
+            "title": "Nevermind",
+            "artist": "Nirvana",
+            "release_year": 1991,
+            "description": "Drummer Dave Grohl once said that the metaphor that kept coming up while Nirvana was recording Nevermind was children's music. Listen and you can hear it: the singsong melodies, the simple performances, the way it feels direct but also a little haunted. For however much the band is framed as ambassadors for generational angst, what makes Nevermind special isn't its rage, but its innocence. Of course they wanted to tear down the culture that came before it: It was often misogynistic and cruel. But in its place, they wanted to build something equitable and new.",
+            "image": "./assets/Nevermind.jpeg",
+            "listened": false,
+            "times_listened": 0
+        },
+        {
+            "id": 3,
+            "title": "Vespertine",
+            "artist": "Björk",
+            "release_year": 2001,
+            "description": "Sixteen years before Björk sang of \"two music nerds obsessing … sending each other mp3s,\" the Icelandic producer created the first love album for the Napster age. She spent three years embroidering the \"microbeats\" behind Vespertine—flickering, sinewy sound beds comprising samples of domestic life—intending for it to sound good even at pirated bit rates. It was a revelation both human and technical, as Björk welcomed the world into her and her lover's \"hidden place.\"",
+            "image": "./assets/Vespertine.jpeg",
+            "listened": false,
+            "times_listened": 0
+        },
+        {
+            "id": 4,
+            "title": "Blonde",
+            "artist": "Frank Ocean",
+            "release_year": 2016,
+            "description": "An album we'll be listening to and talking about for years. As enigmatic as its author, Blonde is a daring set of ambient post-R&B that slips into your bloodstream. Though it's rich in luxurious wordplay and melody, Ocean favors impressionism here, from the mood-altering moves of \"Nights\" to the velveteen drift of \"White Ferrari.\" The result is oblique yet surprisingly emotional and intimate—a tour de force that sneaks up on you.",
+            "image": "./assets/Blonde.jpeg",
+            "listened": false,
+            "times_listened": 0
+        },
+        {
+            "id": 5,
+            "title": "To Pimp A Butterfly",
+            "artist": "Kendrick Lamar",
+            "release_year": 2015,
+            "description": "Following 2012's electrifying good kid, m.A.A.d city, the supremely gifted, Compton-bred rapper delivers another uncompromising and deeply affecting listening experience. Packed with jazzy, dreamlike production and staggering lyrical work, To Pimp a Butterfly finds Kendrick Lamar grappling with the weight of his newfound fame—as a representative of his community and as a young black man. Through the funky menace of \"King Kunta,\" Lamar makes blistering reference to the protagonist of Alex Haley's Roots, while the feverish standout, \"The Blacker the Berry,\" sees him attack black-on-black crime with singular precision and ferocity.",
+            "image": "./assets/ToPimpAButterfly.jpeg",
+            "listened": false,
+            "times_listened": 0
+        },
+        {
+            "id": 6,
+            "title": "Led Zeppelin IV",
+            "artist": "Led Zeppelin",
+            "release_year": 1971,
+            "description": "It hangs together well enough as an album. But the real beauty of IV is as a collection of seeds, each sprouting in a different direction: gentle folk (\"Going to California\") and nasty blues (\"Black Dog\"), the epic (\"Stairway to Heaven\") and the concise (\"Rock and Roll\"). That fans have fought for years over the album's perfect moment (it's \"When the Levee Breaks\") is a testament not only to the passion the band inspires, but also to how perfectly they capture their own internal yins and yangs. An entire ecosystem of music could be built on the songs here. And it was.",
+            "image": "./assets/LedZeppelinIV.jpeg",
+            "listened": false,
+            "times_listened": 0
+        },
+        {
+            "id": 7,
+            "title": "Rodeo",
+            "artist": "Travis Scott",
+            "release_year": 2015,
+            "description": "The pivotal release in the soon-to-be-superstar's career, Rodeo pinpoints the moment the Houston rapper took his murky vision wide-screen, making the Kanye protégé's syrupy, post-Yeezus goth-rap palatable to the mainstream. There's a lot going on on Travis Scott's major-label debut: dirtbag bangers with the distortion turned to 11 (done best on the Swae Lee and Chief Keef collab \"Nightcrawler\"), unexpectedly catchy sing-along anthems (\"Antidote,\" at the time Scott's biggest hit to date), depraved Justin Bieber verses (the wonderfully strange \"Maria I'm Drunk\"), and grunge-rap numbers on which Kanye threatens to piss on your grave (on, well, take a wild guess). The expanded edition introduces two new songs into the fold: the evil-sounding ScHoolboy Q collab \"Ok Alright\" and the psychedelic \"Never Catch Me,\" on which Scott raps, \"My fifteen seconds lasted a little longer.\" True.",
+            "image": "./assets/Rodeo.jpeg",
+            "listened": false,
+            "times_listened": 0
+        },
+        {
+            "id": 8,
+            "title": "Electric Ladyland",
+            "artist": "The Jimi Hendrix Experience",
+            "release_year": 1968,
+            "description": "On Electric Ladyland, Jimi explores the recording studio for a double LP beyond compare. Every aspect of Hendrix's genius comes to life on his third and final studio album. There's the intense hard-rock punch of \"Crosstown Traffic\"; the two masterful, very different versions of \"Voodoo Chile\"; the radical, rollicking interpretation of Bob Dylan's \"All Along the Watchtower\"; and the dreamy, multilayered beauty of \"1983…(A Merman I Should Turn to Be).\" This is the sound of a genius dreaming.",
+            "image": "./assets/ElectricLadyland.jpeg",
+            "listened": false,
+            "times_listened": 0
+        },
+        {
+            "id": 9,
+            "title": "Dummy",
+            "artist": "Portishead",
+            "release_year": 1994,
+            "description": "Portishead's debut isn't just one of the best albums to rise from the short-lived trip-hop movement—it's one of the best albums of the '90s, period. Combining languid breakbeats and haunting synths, the album is a downtempo spy novel, evoking dark alleys, loaded glances, and sinister undercurrents. Beth Gibbons sings like a caged bird, resilient yet full of sorrow, and partner-in-crime Geoff Barrow builds beats like a cinematographer composes a frame, deftly balancing light and shadow. This thing will give you chills.",
+            "image": "./assets/Dummy.jpeg",
+            "listened": false,
+            "times_listened": 0
+        },
+        {
+            "id": 10,
+            "title": "Shoot For The Stars Aim For The Moon",
+            "artist": "Pop Smoke",
+            "release_year": 2020,
+            "description": "If the uproar over the original cover of Shoot for the Stars Aim for the Moon—designed, per Pop Smoke's wishes, by Virgil Abloh—tells us anything, it's that hip-hop fans cared deeply for the slain Brooklyn rapper. As Smoke's official debut and the project following up the well-received Meet the Woo mixtape series—not to mention the first one Pop wouldn't be around to deliver—Shoot for the Stars meant enough to fans that they'd object in droves to what they believed was an unfit representation of their hero. What they'd find once they got past the artwork, though, is that Smoke had quite a bit of music diverging from the quintessential Brooklyn drill he was best known for.",
+            "image": "./assets/ShootForTheStars.jpeg",
+            "listened": false,
+            "times_listened": 0
+        }
+    ]
+}

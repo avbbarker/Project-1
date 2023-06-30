@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Alec's Music Emporium</title>
+        <link rel="stylesheet" type="text/css" href="./style.css" />
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Nanum+Gothic&display=swap" rel="stylesheet">
+        <script defer src="src/index.js"></script>
+    </head>
+    <body>
+        <div id="top">
+            <img class="logo" src="assets/RecordStoreLogo.png" /> 
+        </div>
+        <hr/>
+        <nav id="album-list">
+            
+        </nav>
+
+        <div id="album-info">
+            <img id="detail-image" src="" />
+            <div>
+                <h1 id="title">Title</h1>
+                <h2 id="artist">artist</h2>
+                <h3 id="year-released">Year Released</h5>
+                <p id="description">
+                    Description
+                </p>
+                <button id="listened">listened</button>
+                <p>
+                    <img class="icon" src="./assets/cdSpinning.gif"/>
+                    <span id="amount">0</span>
+                </p>
+            </div>
+
+
+            <form id="listens-form">
+                <label for="listens-amount">Times Played</label>
+                <input id="listens-amount" type="text" placeholder="Number of plays"/>
+
+                <input type="submit" value="Add listens"></button>
+            </form>
+            
+        </div>
+    </body>
+
+</html>

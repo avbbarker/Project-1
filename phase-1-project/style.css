@@ -1,0 +1,112 @@
+body {
+    background-color: white;
+    color: black;
+    font-family: 'system-ui', cursive;
+}
+
+#right-side {
+    margin-left:auto;
+}
+
+.icon {
+    width:30px;
+    height:auto;
+    vertical-align: middle;
+}
+#amount {
+    font-size: 25px;
+}
+
+#top {
+    display: flex;
+    justify-content: center;
+}
+
+.logo {
+    width: auto;
+    height: 215px;
+}
+
+#album-list {
+    display:flex;
+    justify-content: center;
+}
+
+#album-list img {
+    width: 100px;
+    height: auto;
+    margin: 7px;
+}
+
+#album-list img:hover {
+    filter: drop-shadow(0 0 0.75rem white)
+}
+
+#album-info {
+    display: flex;
+    height: 400px;
+    justify-content: center;
+    margin-top: 25px;
+}
+
+#album-info img {
+    height: auto;
+    margin: 7px;
+    filter: drop-shadow(0 0 1em #7d7a7a)
+}
+
+#album-info div {
+    width: 500px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+#album-info div p {
+    font-family: 'Nanum Gothic', sans-serif;
+    text-align: left;
+}
+
+form {
+    width:200px;
+}
+#listens-form p {
+    margin-top: 20px;
+}
+
+button {
+    border: 0;
+    width:100%;
+    color: black;
+    background: rgb(233, 233, 233)); 
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 20px;
+    font-family: 'system-ui'
+}
+
+input[type=text] {
+    display:inline-block;
+    border: 0;
+    width:100%;
+    color: black;
+    background: rgb(233, 233, 233); 
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 20px;
+    font-family: 'system-ui'
+    box-sizing: border-box;
+}
+
+input[type=submit] {
+    display:inline-block;
+    border: 0;
+    width:100%;
+    color: black;
+    background: rgb(233, 233, 233); 
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 20px;
+    font-family: 'system-ui'
+    box-sizing: border-box;
+    margin-top: 10px;
+}
